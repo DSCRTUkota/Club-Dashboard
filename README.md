@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/Customizable_Portfolio.git
+git clone https://github.com/DSCRTUkota/Club-Dashboard.git
 ```
 2. Install NPM packages
 ```sh
