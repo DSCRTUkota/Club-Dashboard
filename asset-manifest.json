@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Club-Dashboard/static/js/main.96c7254f.chunk.js",
+    "main.js.map": "/Club-Dashboard/static/js/main.96c7254f.chunk.js.map",
+    "runtime-main.js": "/Club-Dashboard/static/js/runtime-main.89e4f370.js",
+    "runtime-main.js.map": "/Club-Dashboard/static/js/runtime-main.89e4f370.js.map",
+    "static/js/2.62052a6d.chunk.js": "/Club-Dashboard/static/js/2.62052a6d.chunk.js",
+    "static/js/2.62052a6d.chunk.js.map": "/Club-Dashboard/static/js/2.62052a6d.chunk.js.map",
+    "index.html": "/Club-Dashboard/index.html",
+    "precache-manifest.be439dc4fec34ce4997111e053f3559f.js": "/Club-Dashboard/precache-manifest.be439dc4fec34ce4997111e053f3559f.js",
+    "service-worker.js": "/Club-Dashboard/service-worker.js",
+    "static/js/2.62052a6d.chunk.js.LICENSE.txt": "/Club-Dashboard/static/js/2.62052a6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89e4f370.js",
+    "static/js/2.62052a6d.chunk.js",
+    "static/js/main.96c7254f.chunk.js"
+  ]
+}
